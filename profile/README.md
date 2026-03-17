@@ -1,28 +1,26 @@
-# 🏎️ 1.5 Adana  Formula — Mühendislik ve Teknoloji Ekosistemi!
+# 🏎️ 1.5 Adana Formula — Yazılımın Mutfağı
 
-> "Çukurova'nın mühendislik vizyonunu, global projelerle birleştiriyoruz. Burası sadece bir başlangıç noktası değil, bir üretim merkezi!"
-
----
-
-## 💡 Biz Kimiz?
-Biz, **1.5 Adana** çatısı altında toplanmış; donanım, yazılım ve oyun dünyasını bir potada eriten tutkulu bir mühendislik grubuyuz. Teorik bilgiyi, gerçek dünya problemlerine (Gömülü sistemlerden otonom araçlara kadar) dönüştürmek için buradayız. 
-
-Hedefimiz; yerel imkanlarla küresel standartlarda projeler üretmek ve bu süreçte her bir üyemizi birer **"Tech-Lead"** adayı olarak yetiştirmek.
+"Çukurova'nın sıcağında otonom araçların beynini, oyunların fiziğini ve webin karmaşasını çözüyoruz. Teoriyi değil, çalışan kodu seviyoruz."
 
 ---
 
-## 🛠️ Yolculuğumuz Nasıl İşliyor?
-Burada kimse yerinde saymaz. Sürecimiz üç ana aşamadan oluşur:
+### 💡 Biz Kimiz?
+Biz **1.5 Adana Formula** ekibinin yazılım kanadıyız. Sadece bilgisayar başında oturmuyoruz; donanımdan oyun motoruna, gömülü sistemlerden bulut mimarilerine kadar her alanda "bu nasıl çalışıyor?" sorusunun peşinden gidiyoruz. 
 
-1.  **🚀 Bootcamp (Eğitim):** Herkes buradan başlar. Temel disiplinleri ve ekip kültürünü öğreniriz.
-2.  **⚙️ Uzmanlaşma:** Eğitimini tamamlayanlar, tutkularına göre ilgili departmana transfer olur.
-3.  **🏁 Üretim:** Artık gerçek projelerin, repoların ve commit'lerin sahibisiniz!
+Amacımız; TÜBİTAK'tan Formula Student'a kadar girdiğimiz her yarışta, yazdığımız kodla fark yaratmak ve bu süreçte her birimizi piyasada aranan birer **"Tech-Lead"** seviyesine taşımak.
 
 ---
 
-## 📂 Departmanlarımız ve Uzmanlık Alanlarımız
+### 🛠️ Yol Haritası (Burada İşler Nasıl Yürür?)
+Burada gelişim süreklidir, kimse yerinde saymaz:
 
-Aşağıdaki butonlara tıklayarak ilgili departmanın özel dünyasına giriş yapabilirsiniz:
+1.  **🚀 Bootcamp (Eğitim):** Herkes bu kapıdan girer. Git kullanmayı, temiz kod yazmayı ve ekip kültürünü burada öğreniyoruz.
+2.  **⚙️ Uzmanlaşma:** Eğitim süreci sonunda; ilgi alanına ve yeteneklerine en uygun olan departmana transfer oluyorsun.
+3.  **🏁 Üretim:** Artık uzmanlık alanındaki gerçek projeler, teknik sorunlar ve çözüm bekleyen repolar seni bekliyor.
+
+---
+
+### 📂 Departmanlar ve Uzmanlık Alanları
 
 | Departman | Uzmanlık ve Teknolojiler | Erişim |
 | :--- | :--- | :--- |
@@ -32,8 +30,7 @@ Aşağıdaki butonlara tıklayarak ilgili departmanın özel dünyasına giriş 
 
 ---
 
-## 📈 Neden Buradayız?
-* **Gerçek Deneyim:** Sadece kurs izlemiyoruz, repolara direkt katkı sağlıyoruz.
-* **Ekip Ruhu:** 1.5 Adana ruhuyla, dayanışma içinde büyüyoruz.
-* **Networking:** Yarının büyük mühendisleriyle bugünden yan yana çalışıyoruz.
-
+### 📈 Neden Buradayız?
+* **Gerçek Deneyim:** Sadece teoriyle kalmıyoruz, yaşayan projelere direkt katkı sağlıyoruz.
+* **Ekip Ruhu:** 1.5 Adana disipliniyle birbirimizi yukarı çekiyoruz; takıldığın yerde mutlaka bir el uzanır.
+* **Network:** Yarının büyük mühendisleriyle bugünden yan yana, aynı klavyede çalışıyoruz.
