@@ -28,7 +28,7 @@ Aşağıdaki butonlara tıklayarak ilgili departmanın özel dünyasına giriş 
 | :--- | :--- | :--- |
 | **🎮 Oyun Geliştirme** | Unity, C#, C++ ve Oyun Mekaniği Tasarımı | [![Oyun](https://img.shields.io/badge/Oyun_Departmanı-FF5733?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/birbucukformul-Game) |
 | **🌐 Web Teknolojileri** | Frontend, Backend ve Modern Web Mimarileri | [![Web](https://img.shields.io/badge/Web_Departmanı-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/birbucukformula-Web) |
-| **📟 Gömülü Sistemler** | STM32, Arduino, Robotik ve VCU Geliştirme | [![Embedded](https://img.shields.io/badge/Gömülü_Sistemler-00A4A6?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://github.com/birbucukformula-Embedded) |
+| **📟 Gömülü Sistemler** | STM32, Arduino ve VCU Geliştirme | [![Embedded](https://img.shields.io/badge/Gömülü_Sistemler-00A4A6?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://github.com/birbucukformula-Embedded) |
 
 ---
 
