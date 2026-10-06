@@ -1,13 +1,13 @@
-# 🏎️ 1.5 Adana Formula — Yazılımın Mutfağı
+# 🏎️ 1.5 Adana Formula — Yazılım Atölyesi
 
-"Çukurova'nın sıcağında otonom araçların beynini, oyunların fiziğini ve webin karmaşasını çözüyoruz. Teoriyi değil, çalışan kodu seviyoruz."
+"Oyun geliştirme, web teknolojileri, gömülü sistemler ve otonom araç sistemleri üzerine çalışıyoruz. Temel odağımız çalışan kod ve somut projeler üretmektir."
 
 ---
 
 ### 💡 Biz Kimiz?
-Biz **1.5 Adana Formula** ekibinin yazılım kanadıyız. Sadece bilgisayar başında oturmuyoruz; donanımdan oyun motoruna, gömülü sistemlerden bulut mimarilerine kadar her alanda "bu nasıl çalışıyor?" sorusunun peşinden gidiyoruz. 
+Biz **1.5 Adana Formula** ekibinin yazılım kanadıyız. Ekip olarak temel hedefimiz Formula Student yarışlarına katılmak. Bu kapsamda gömülü sistemler geliştirmenin yanı sıra oyun ve web teknolojileri üzerine projeler üretiyor, ayrıca yeni kurduğumuz Otonom departmanıyla otonom sistemler alanında çalışmalar yürütüyoruz.
 
-Amacımız; TÜBİTAK'tan Formula Student'a kadar girdiğimiz her yarışta, yazdığımız kodla fark yaratmak ve bu süreçte her birimizi piyasada aranan birer **"Tech-Lead"** seviyesine taşımak.
+Amacımız katıldığımız her yarışta yazdığımız kodla fark yaratmak ve bu süreçte tüm ekip üyelerimizin teknik gelişimine doğrudan katkı sağlamak.
 
 ---
 
@@ -27,6 +27,7 @@ Burada gelişim süreklidir, kimse yerinde saymaz:
 | **🎮 Oyun Geliştirme** | Unity, C#, C++ ve Oyun Mekaniği Tasarımı | [![Oyun](https://img.shields.io/badge/Oyun_Departmanı-FF5733?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/birbucukformul-Game) |
 | **🌐 Web Teknolojileri** | Frontend, Backend ve Modern Web Mimarileri | [![Web](https://img.shields.io/badge/Web_Departmanı-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/birbucukformula-Web) |
 | **📟 Gömülü Sistemler** | STM32, Arduino ve VCU Geliştirme | [![Embedded](https://img.shields.io/badge/Gömülü_Sistemler-00A4A6?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://github.com/birbucukformula-Embedded) |
+| **🤖 Otonom Sistemler** | Otonom Sürüş Algoritmaları ve Görüntü İşleme | [![Otonom](https://img.shields.io/badge/⏳_Yakında_Geliyor-555555?style=for-the-badge)](#) |
 
 ---
 
