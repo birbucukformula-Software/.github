@@ -7,5 +7,5 @@
   <br>
   <p><em>Organizasyon yapımız ve projelerimiz şu anda hazırlanmaktadır. Bizimle kalın!</em></p>
   <br>
-  <a href="./README.md">⬅️ Ana Sayfaya Dön</a>
+  <a href="../README.md">⬅️ Ana Sayfaya Dön</a>
 </div>
